@@ -1,0 +1,8 @@
+init.el
+*elc
+.DS_Store
+backup/*
+backup.*
+org-clock-save.el
+\#*
+ac-comphist.dat
